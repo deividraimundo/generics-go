@@ -1,1 +1,1 @@
-# generics-go
+# Generics Go
